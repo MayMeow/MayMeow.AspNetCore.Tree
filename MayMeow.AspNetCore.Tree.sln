@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MayMeow.Tree", "MayMeow.Tree\MayMeow.Tree.csproj", "{20F4CFD2-8AB3-4A64-AC29-88722CC78D93}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MayMeow.Tree.Test", "MayMeow.Tree.Test\MayMeow.Tree.Test.csproj", "{11508442-5CE9-4BCD-86E5-A32FD0338563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20F4CFD2-8AB3-4A64-AC29-88722CC78D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F4CFD2-8AB3-4A64-AC29-88722CC78D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F4CFD2-8AB3-4A64-AC29-88722CC78D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F4CFD2-8AB3-4A64-AC29-88722CC78D93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11508442-5CE9-4BCD-86E5-A32FD0338563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11508442-5CE9-4BCD-86E5-A32FD0338563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11508442-5CE9-4BCD-86E5-A32FD0338563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11508442-5CE9-4BCD-86E5-A32FD0338563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D317CE4C-0121-453D-BB94-288142885355}
+	EndGlobalSection
+EndGlobal
